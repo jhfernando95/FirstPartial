@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FirstPartial</string>
+    <string name="str_btn_contact1">Contacto 1</string>
+    <string name="str_btn_contact2">Contacto 2</string>
+    <string name="str_btn_contact3">Contacto 3</string>
+    <string name="str_btn_contact4">Contacto 4</string>
+    <string name="str_btn_contact5">Contacto 5</string>
+    <string name="str_btn_contact6">Contacto 6</string>
+    <string name="str_btn_contact7">Contacto 7</string>
+    <string name="str_btn_contact8">Contacto 8</string>
+    <string name="str_btn_contact9">Contacto 9</string>
+    <string name="str_btn_contact10">Contacto 10</string>
+    <string name="str_btn_contact11">Contacto 11</string>
+    <string name="str_btn_contact12">Contacto 12</string>
+    <string name="str_btn_contact13">Contacto 13</string>
+    <string name="str_btn_contact14">Contacto 14</string>
+    <string name="str_btn_contact15">Contacto 15</string>
+    <string name="str_btn_contact16">Contacto 16</string>
+    <string name="str_btn_contact17">Contacto 17</string>
+    <string name="str_btn_contact18">Contacto 18</string>
+    <string name="str_btn_contact19">Contacto 19</string>
+    <string name="str_btn_contact20">Contacto 20</string>
+    <string name="str_txt_name">Nombre: Jonathan</string>
+    <string name="str_txt_lastname">Apellido: Mideros</string>
+    <string name="str_txt_phone">Telefono: 3103012972</string>
+    <string name="str_txt_age">Edad: 30</string>
+    <string name="form_email">Correo electronico</string>
+    <string name="form_commentary">Comentario</string>
+    <string name="str_btn_update">Actualizar</string>
+    <string name="str_title_toolbar">Mi perfil</string>
+</resources>
