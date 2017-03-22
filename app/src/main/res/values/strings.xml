@@ -28,4 +28,7 @@
     <string name="form_commentary">Comentario</string>
     <string name="str_btn_update">Actualizar</string>
     <string name="str_title_toolbar">Mi perfil</string>
+    <string name="str_menu_cambiar">cambiar</string>
+    <string name="str_menu_update">regresar</string>
+    <string name="str_menu_cambiarnombre">Cambiar Nombre</string>
 </resources>
